@@ -1,0 +1,41 @@
+header{ 
+    font-family:Inconsolata;
+  margin-left: 25px;
+    margin-top: 15px;
+
+}
+ img{
+display: block;
+width: 400px;
+margin-top: 100px;
+margin-left: 50px;
+}
+div{
+    font-family:Space Mono;
+    display: inline-block;
+    vertical-align: middle;
+     margin-top: 60px;
+    
+    margin-left:  150px;
+   
+}
+
+button{
+    background: #000;
+    color: white; 
+    font-size: 10px;
+    padding : 5px;
+    width: 150px;
+  
+    
+}
+
+footer{
+    text-align: center;
+    margin-top: 300px;
+    color: gray;
+
+}
+span{
+    color: rgb(114, 114, 114);
+}
